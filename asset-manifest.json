@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/smart_contract/static/css/main.5cd64d03.css",
+    "main.js": "/smart_contract/static/js/main.f2ee3810.js",
+    "static/js/787.9816e034.chunk.js": "/smart_contract/static/js/787.9816e034.chunk.js",
+    "static/media/Phone.png": "/smart_contract/static/media/Phone.d56f04f3e5642bcde466.png",
+    "static/media/Computer.png": "/smart_contract/static/media/Computer.6b8c57e32ce36765b796.png",
+    "static/media/Car.png": "/smart_contract/static/media/Car.e3b057ecde03c359dfb3.png",
+    "index.html": "/smart_contract/index.html",
+    "main.5cd64d03.css.map": "/smart_contract/static/css/main.5cd64d03.css.map",
+    "main.f2ee3810.js.map": "/smart_contract/static/js/main.f2ee3810.js.map",
+    "787.9816e034.chunk.js.map": "/smart_contract/static/js/787.9816e034.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd64d03.css",
+    "static/js/main.f2ee3810.js"
+  ]
+}
